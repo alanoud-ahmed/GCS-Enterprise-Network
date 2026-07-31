@@ -95,8 +95,8 @@ The network was tested using:
 
 ## Files
 
-* PROJECT_p.pkt → Cisco Packet Tracer project
-* PROJECT_FF.pdf → Full project documentation
+* GCS_topology.pkt → Cisco Packet Tracer project
+* GCS_report.pdf → Full project documentation
 
 ---
 
